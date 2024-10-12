@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('check') {
             steps {
-                echo 'check is running'
+                echo 'check is running ...'
             }
         }
 
